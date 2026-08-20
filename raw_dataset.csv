@@ -1,0 +1,27 @@
+ID,Name,Email,Age,Gender,Join_Date,Salary,City,Active
+1,Aarav Sharma,aarav.sharma@gmail.com,21,Male,2026-01-15,85000,Delhi,Yes
+2,Priya Singh,priya.singh@gmail.com,,Female,15/01/2026,72000,Meerut,Yes
+3,Rahul Verma,rahul.verma@gmail.com,22,male,Jan 16 2026,68000,Delhi,No
+4,Neha Gupta,neha.gupta@gmail.com,twenty,Female,2026/01/17,91000,Noida,Yes
+5,Karan Mehta,karan.mehta@gmail,23,M,18-01-2026,65000,Ghaziabad,No
+6,Simran Kaur,simran.kaur@gmail.com,21,Female,2026-01-19,,Meerut,Yes
+7,Vikash Yadav,vikash.yadav@gmail.com,24,Male,20/01/2026,58000,Delhi,No
+8,Ananya Roy,ananya.roy@gmail.com,22,Female,2026-01-21,105000,Noida,Yes
+9,Rohit Kumar,rohit.kumar@gmail.com,21,Male,22/01/2026,62000,Meerut,Yes
+10,Isha Jain,isha.jain@gmail.com,20,F,2026-01-23,77000,Delhi,Yes
+11,Mohit Bansal,mohit.bansal@gmail.com,25,Male,24/01/2026,56000,Ghaziabad,No
+12,Tanya Kapoor,tanya.kapoor@gmail.com,22,Female,2026-01-25,83000,Noida,Yes
+13,Arjun Malhotra,arjun.malhotra@gmail.com,23,Male,26/01/2026,69000,Delhi,No
+14,Riya Sethi,riya.sethi@gmail.com,21,Female,2026-01-27,74000,Meerut,Yes
+15,Dev Patel,dev.patel@gmail.com,22,Male,2026-01-28,88000,Noida,Yes
+16,Pooja Nair,pooja.nair@gmail.com,20,Female,29/01/2026,71000,Delhi,Yes
+17,Aditya Rao,aditya.rao@gmail.com,26,Male,2026-01-30,54000,Ghaziabad,No
+18,Sneha Das,sneha.das@gmail.com,21,Female,31/01/2026,79000,Meerut,Yes
+19,Nitin Joshi,nitin.joshi@gmail.com,22,Male,2026-02-01,67000,Delhi,No
+20,Kavya Reddy,kavya.reddy@gmail.com,23,Female,02/02/2026,95000,Noida,Yes
+20,Kavya Reddy,kavya.reddy@gmail.com,23,Female,02/02/2026,95000,Noida,Yes
+21,Manish Kumar,manish.kumar@gmail.com,-5,Male,2026-02-03,60000,Delhi,No
+22,Divya Sharma,divya.sharma@gmail.com,22,female,03/02/2026,abc,Meerut,Yes
+23,Sahil Khan,sahil.khan@gmail.com,21,Male,2026-02-30,64000,Delhi,No
+24,Aditi Verma,,22,Female,05/02/2026,73000,Noida,Yes
+25,Rohan Singh,rohan.singh@gmail.com,21,Male,06/02/2026,59000,Meerut,No
